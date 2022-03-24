@@ -1,4 +1,4 @@
-package demo;
+package com.tns.corejava;
 
 public class Helloworld {
 
